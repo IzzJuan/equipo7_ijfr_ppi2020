@@ -26,3 +26,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+
+[![Run on Repl.it](https://repl.it/badge/github/IzzJuan/equipo7_ijfr_ppi2020)](https://repl.it/github/IzzJuan/equipo7_ijfr_ppi2020)
